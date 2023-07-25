@@ -22,5 +22,6 @@ module.exports = {
   rules: {
     'import/extensions': 0,
     'no-console': 0,
+    'comma-dangle': 0,
   },
 };
